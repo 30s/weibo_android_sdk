@@ -209,7 +209,7 @@ public class WeiboDialog extends Dialog {
 				return;
 			}
 			super.onPageStarted(view, url, favicon);
-			mSpinner.show();
+			// mSpinner.show();
 		}
 
 		@Override
